@@ -8,3 +8,5 @@ Fiture :
   3. Database by SQLite
  
 ![tampilan1](tampilan1.jpg)
+![tampilan2](tampilan2.jpg)
+![tampilan2](tampilan3.jpg)
